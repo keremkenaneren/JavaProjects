@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Taksimetre {
     public static void main(String[] args) {
         /*
         Km Başı Ücretimiz : 2.20 TL
